@@ -25,10 +25,11 @@
         </dependency>
     </dependencies>
 
+
     <build>
         <sourceDirectory>src/main/java</sourceDirectory>
         <plugins>
-            <!-- Makes the project JAR executable. -->
+
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-jar-plugin</artifactId>
